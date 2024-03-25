@@ -34,9 +34,17 @@ Visit the [Blog Section](https://amirlayegh.github.io/year-archive/) for more po
 ## Latest Blog Posts
 
 {% for post in site.posts limit:2 %}
+- [{{ post.title }}]({{ post.url | absolute_url }}) - *{{ post.date | date: "%B %d, %Y" }}*
+{% endfor %}
+
+[More Posts](https://amirlayegh.github.io/year-archive/)
+
+<!-- ## Latest Blog Posts
+
+{% for post in site.posts limit:2 %}
 ### [{{ post.title }}]({{ post.url | absolute_url }})
 - **Date**: {{ post.date | date: "%B %d, %Y" }}
 - **Excerpt**: {{ post.excerpt | strip_html | truncatewords: 20 }}
 {% endfor %}
 
-Visit the [Blog Section](https://amirlayegh.github.io/year-archive/) for more posts.
+Visit the [Blog Section](https://amirlayegh.github.io/year-archive/) for more posts. -->
