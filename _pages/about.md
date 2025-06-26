@@ -12,7 +12,9 @@ redirect_from:
 
 🔍 My research primarily focuses on Information Extraction (IE) through the lens of Large Language Models (LLMs). This study area seeks to uncover structured knowledge from unstructured text. By employing techniques such as Named Entity Recognition (NER), Relation Extraction (RE), and Event Extraction (EE), we aim to identify and classify entities, understand their interrelations, and pinpoint events and their participants, all from plain text.
 
-🏆 Prior to my doctoral studies, I was awarded a distinction MSc degree in Big Data Science from Queen Mary University of London ([QMUL](https://search.qmul.ac.uk/)), further enriching my expertise in data science and computational algorithms. I began my journey in technology with a Bachelor’s degree in Software Engineering from Ferdowsi University of Mashhad.
+🏆 Prior to my doctoral studies, I was awarded a distinction MSc degree in Big Data Science from Queen Mary University of London ([QMUL](https://search.qmul.ac.uk/)), further enriching my expertise in data science and computational algorithms. I began my journey in technology with a Bachelor's degree in Software Engineering from Ferdowsi University of Mashhad.
+
+🚀 **Recent Achievement**: I'm excited to share that my team won the **Firebase Studio Enterprise Vibe Coding Hackathon** as part of Google Cloud Sweden Region Launch 2025! We built an AI Procurement Assistant for retail teams, powered by Superlinked semantic search technology. The solution enables buyers to ask natural language queries like "high performance products with low return rate" and get instant insights without dashboards, SQL, or delays. Check out our [GitHub repository](http://bit.ly/3FwBUuF) for more details.
 
 👨🏻‍🏫 Beyond my research, I am passionate about education and knowledge sharing. I serve as a teaching assistant for courses such as [Modern Methods in Software Engineering](https://www.kth.se/student/kurser/kurs/ID2207?l=en) and [Distributed Artificial Intelligence and Intelligent Agents](https://www.kth.se/student/kurser/kurs/ID2209?l=en).
 
